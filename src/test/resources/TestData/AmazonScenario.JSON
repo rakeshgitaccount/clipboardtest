@@ -1,0 +1,12 @@
+{
+	"inputdata":{
+		"Category":"TV, Appliances, Electronics",
+		"Child category":"Televisions",
+		"Brands":"Samsung",
+		"Sort by":"Price: High to Low",
+		"Product index":"2"
+	},
+	"expecteddata":{ 
+		"Expected output":"About this item"
+	}
+}
